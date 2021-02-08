@@ -385,6 +385,10 @@ img{
 .footer__social:hover{
     color: var(--first-color);
 }
+.footer__copyright{
+    text-align: center;
+    margin-top: var(--mb-3);
+}
 
 /* ===== MEDIA QUERIES =====*/
 @media screen and (min-width: 768px){
